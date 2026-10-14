@@ -1,4 +1,7 @@
 # Olá! 👋 Eu sou Aliny de Jesus Costa
+<div align="center">
+  <img src="caricatura_github_aliny.jpg" width="180" alt="Avatar da Aliny"/>
+</div>
 
 🎓 Estudante de Engenharia de Software na UniEVANGÉLICA  
 💻 Desenvolvedora em formação  
