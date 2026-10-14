@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Aliny de Jesus Costa
 
-<!--
-**alinydejesus68938-blip/alinydejesus68938-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software na UniEVANGÉLICA  
+💻 Desenvolvedora em formação  
+🚀 Explorando desenvolvimento de software e arquitetura de sistemas.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java e Python
+- HTML, CSS e JavaScript
+- SQL e PostgreSQL
+- Git, GitHub e VS Code
+- Arquitetura de microsserviços e padrão Saga
+
+## 📚 Projetos acadêmicos
+
+- **Saga E-commerce:** modelagem de transações distribuídas com microsserviços.
+- **ConstruFácil_Cliente:** projeto acadêmico de Engenharia de Software.
+
+## 🎯 Meu objetivo
+
+Aprender continuamente, desenvolver soluções e crescer profissionalmente na área de tecnologia.
+
+---
+
+✨ *Cada projeto é uma nova oportunidade de aprender!*
